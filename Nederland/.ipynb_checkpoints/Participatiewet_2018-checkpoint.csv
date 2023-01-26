@@ -1,0 +1,152 @@
+"Buurten";"aantal mensen met een uitkering Participatiewet (Pw)|2018";"percentage mensen met een uitkering krachtens de Participatiewet|2018"
+"0000 Binnenstad-Noord";141;3,5
+"0001 Binnenstad-Zuid";224;3,7
+"0002 Binnenstad-Oost";215;6,0
+"0003 Binnenstad-West";54;3,6
+"0004 Noorderplantsoen";"";""
+"0005 Hortusbuurt-Ebbingekwartier";213;4,5
+"0007 UMCG";"";""
+"0008 Stationsgebied";"X";""
+"0100 De Meeuwen";17;1,6
+"0101 Oosterpoort";229;5,1
+"0102 Herewegbuurt";35;2,5
+"0103 Rivierenbuurt";185;4,9
+"0104 Grunobuurt";64;3,5
+"0105 Badstratenbuurt";50;6,2
+"0106 Zeeheldenbuurt";60;2,1
+"0107 Laanhuizen";16;1,5
+"0108 Stadspark";"X";""
+"0109 Martini Trade Park";"X";""
+"0200 Oranjebuurt";142;6,6
+"0201 Noorderplantsoenbuurt";106;3,2
+"0202 Schildersbuurt";92;1,8
+"0203 Kostverloren";181;9,8
+"0300 De Hoogte";516;16,0
+"0301 Indische buurt";913;13,2
+"0302 Professorenbuurt";153;2,8
+"0400 Gorechtbuurt";256;6,2
+"0401 Vogelbuurt";273;16,4
+"0402 Bloemenbuurt";380;16,5
+"0403 Florabuurt";97;10,1
+"0404 Damsterbuurt";47;6,6
+"0500 De Linie";"X";"X"
+"0501 Europapark";"X";"X"
+"0502 Eemskanaal";"X";""
+"0503 Kop van Oost";"X";"X"
+"0504 Woonschepenhaven";"X";"X"
+"0505 Driebond";"X";""
+"0506 Eemspoort";"X";""
+"0507 Euvelgunne";"X";""
+"0508 Winschoterdiep";14;28,6
+"0509 Stainkoel'n";"";""
+"0510 Roodehaan";"";""
+"0511 Waterhuizen";"";""
+"0600 Sterrebosbuurt";"X";"X"
+"0601 Coendersborg";38;2,0
+"0602 Klein Martijn";"";""
+"0603 Villabuurt";"X";""
+"0604 Helpman";257;5,4
+"0605 De Wijert";434;12,5
+"0606 De Wijert-Zuid";21;1,2
+"0700 Corpus den Hoorn";252;8,3
+"0701 Hoornsemeer";155;5,7
+"0702 Hoornsepark";"X";""
+"0703 Van Swieten";"X";""
+"0704 Piccardthof";"";""
+"0705 Bruilwering";"X";""
+"0800 Hoogkerk Dorp";96;8,0
+"0801 Hoogkerk-Zuid";136;4,1
+"0802 Westpoort";"";""
+"0803 Vierverlaten";"X";""
+"0804 Zuidwending";"";""
+"0805 Leegkerk";"";""
+"0806 Gravenburg";12;0,8
+"0807 Suikerfabriekterrein";"";""
+"0808 Peizerweg";"";""
+"0809 Bangeweer";"X";"X"
+"0810 De Buitenhof";"X";"X"
+"0811 Kranenburg";"";""
+"0812 De Kring";54;25,8
+"0900 Vinkhuizen-Noord";302;6,7
+"0901 Vinkhuizen-Zuid";426;14,6
+"0902 Hoendiep";"X";"X"
+"0903 Friesestraatweg";"X";""
+"0904 Reitdiep";"X";"X"
+"0905 Dorkwerd";"X";""
+"0906 De Held";18;1,0
+"0907 Westpark";"X";"X"
+"1000 Selwerd";487;11,0
+"1001 Paddepoel-Zuid";445;14,4
+"1002 Paddepoel-Noord";291;7,4
+"1003 Zernike Campus";"";""
+"1004 Selwerderhof";"";""
+"1005 Tuinwijk";122;9,5
+"1100 Beijum-West";313;7,1
+"1101 Beijum-Oost";654;14,2
+"1102 De Hunze";10;0,6
+"1103 Van Starkenborgh";"X";"X"
+"1104 Noorderhoogebrug";"X";"X"
+"1105 Het Witte Lam";"X";"X"
+"1106 Koningslaagte";"X";"X"
+"1107 Hunzeboord";"";""
+"1200 Lewenborg-Noord";279;12,5
+"1201 Lewenborg-Zuid";217;9,5
+"1202 Lewenborg-West";27;2,1
+"1203 Oosterhoogebrug";65;4,5
+"1204 Ulgersmaborg";48;3,3
+"1205 Hunzepark";"";""
+"1206 Zilvermeer";"X";""
+"1207 Kardinge";"";""
+"1208 Drielanden";"X";"X"
+"1209 Noorddijk";"";""
+"1210 Ruischerbrug";"X";"X"
+"1211 Ruischerwaard";14;1,4
+"1300 Middelbert";"X";""
+"1301 Engelbert";11;2,0
+"1302 Klein Harkstede";"";""
+"1400 Meeroevers";"";""
+"1401 Harkstede (GN)";"X";"X"
+"1402 Lageland (GN)";"X";""
+"1403 Groenewei";"";""
+"1404 Tersluis";"";""
+"1405 De Zeilen";"";""
+"1406 De Wierden";"";""
+"1500 Ten Boer";"";""
+"1501 Buitengebied Ten Boer-Zuid";"";""
+"1502 Garmerwolde";"";""
+"1503 Thesinge";"";""
+"1504 Sint-Annen";"";""
+"1505 Buitengebied Ten Boer-Noord";"";""
+"1506 Bedrijventerrein Dijkshorn";"";""
+"1600 Ten Post Dorp";"";""
+"1601 Lellens";"";""
+"1602 Woltersum";"";""
+"1603 Winneweer";"";""
+"1604 Wittewierum";"";""
+"1605 Buitengebied ten Post";"";""
+"1700 Haren-Centrum";"";""
+"1701 Haren-Zuidwest";"";""
+"1702 Haren-Zuidoost";"";""
+"1703 Haren-Noord";"";""
+"1704 Essen";"";""
+"1705 Buitengebied Haren-Noordwest";"";""
+"1706 Nesciopark";"";""
+"1707 Paterswoldsemeer";"";""
+"1708 Buitengebied Haren-Zuidoost";"";""
+"1709 Wolddeelen";"";""
+"1710 Buitengebied Haren-Zuidwest";"";""
+"1800 Oosterhaar";"";""
+"1801 Tuindorp";"";""
+"1802 Felland";"";""
+"1803 Buitengebied Haren-Noordoost";"";""
+"1900 Glimmen Dorp";"";""
+"1901 Onnen Dorp";"";""
+"1902 Noordlaren Dorp";"";""
+"1903 Buitengebied Glimmen";"";""
+"1904 Buitengebied Onnen";"";""
+"1905 Buitengebied Noordlaren";"";""
+"1906 Zuidlaardermeer";"";""
+"1907 Noordlaarderbos";"";""
+"1908 Appelbergen Glimmen";"";""
+"1909 Appelbergen Onnen";"";""
+"Buurt onbekend";970;""
