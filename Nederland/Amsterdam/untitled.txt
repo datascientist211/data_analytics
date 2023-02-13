@@ -17,3 +17,10 @@ huurwoningen_in_bezit_woningcorporaties and overige_nietwestersemigratieachtergr
 huurwoningen_in_bezit_woningcorporaties and eenpersoonshuishoudens = 0.729
 huurwoningen_in_bezit_woningcorporaties and huishoudens_met_kinderen = 0.721
 huurwoningen_in_bezit_woningcorporaties and meergezinswoning = 0.712
+
+
+westerse_migratieachtergrond:
+huishoudens_zonder_kinderen and westerse_migratieachtergrond = 0.928
+meergezinswoning and westerse_migratieachtergrond = 0.883
+aantal_bedrijven_overheid_onderwijs_en_zorg and westerse_migratieachtergrond = 0.882
+eenpersoonshuishoudens and westerse_migratieachtergrond = 0.869
