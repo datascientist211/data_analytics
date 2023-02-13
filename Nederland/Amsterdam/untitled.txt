@@ -1,0 +1,19 @@
+huurwoningen_in_bezit_overige_verhuurders and westerse_migratieachtergrond = 0.807
+huurwoningen_in_bezit_overige_verhuurders and huishoudens_zonder_kinderen = 0.760
+huurwoningen_in_bezit_overige_verhuurders and meergezinswoning = 0.753
+huurwoningen_in_bezit_overige_verhuurders and personen_25_tot_45_jaar = 0.735
+huurwoningen_in_bezit_overige_verhuurders and eenpersoonshuishoudens = 0.729
+huurwoningen_in_bezit_overige_verhuurders and aantal_bedrijfsvestigingen = 0.722
+huurwoningen_in_bezit_overige_verhuurders and aantal_bedrijven_zakelijke_dienstverlening = 0.714
+huurwoningen_in_bezit_overige_verhuurders and aantal_bedrijven_cultuur_recreatie_overige = 0.703
+
+
+
+huurwoningen_in_bezit_woningcorporaties and gescheid = 0.856
+huurwoningen_in_bezit_woningcorporaties and niet_westerse_migratieachtergrond = 0.796
+huurwoningen_in_bezit_woningcorporaties and ongehuwd = 0.746
+huurwoningen_in_bezit_woningcorporaties and personen_45_tot_65_jaar = 0.737
+huurwoningen_in_bezit_woningcorporaties and overige_nietwestersemigratieachtergrond = 0.732
+huurwoningen_in_bezit_woningcorporaties and eenpersoonshuishoudens = 0.729
+huurwoningen_in_bezit_woningcorporaties and huishoudens_met_kinderen = 0.721
+huurwoningen_in_bezit_woningcorporaties and meergezinswoning = 0.712
